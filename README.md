@@ -5,5 +5,5 @@
 2. **Radiation Sensor** The Radiation Sensor detects Beta (radioactive decaay) and Gamma (electromagnetic radiation) Radiation. 
 3. **Arduino Nano** The Arduino Nano by the Arduino company develops micro-controllers that are eventually used to communicate witth the Odroid XU4.
 - ![Odroid XU4](https://github.com/ronmariya/ronmar/blob/main/res/odroid_xu4.jpg?raw=true)
-- ![Radiation Sensor](image.jpg)
+- ![Radiation Sensor](https://raw.githubusercontent.com/ronmariya/ronmar/main/radiation%20sensor.webp)
 - ![Arduino Nano](image.jpg)
