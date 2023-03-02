@@ -30,7 +30,9 @@ The Sound and Lightning Module includes sensors that are usually smile in size a
 1. **SEN0232** The SEN0232 sensor measures the validity of sound. Ultimately, the sensor is supposed to identify whether the sound is detremental to our health. [SEN0232](https://wiki.dfrobot.com/Gravity__Analog_Sound_Level_Meter_SKU_SEN0232)
 2. **DPLM20GP** The DPLM20GP sensor measure audio events.
 3. **SEN0290** The SEN0290 sensor measures lightning distance, intensity, and frequency. [SEN0290](https://wiki.dfrobot.com/Gravity:%20Lightning%20Sensor%20SKU:%20SEN0290)
-4. 
+
+**Images**
+- [**SEN0232**](
 
 
 
