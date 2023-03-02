@@ -32,7 +32,9 @@ The Sound and Lightning Module includes sensors that are usually smile in size a
 3. **SEN0290** The SEN0290 sensor measures lightning distance, intensity, and frequency. [SEN0290](https://wiki.dfrobot.com/Gravity:%20Lightning%20Sensor%20SKU:%20SEN0290)
 
 **Images**
-- [**SEN0232**](
+- [**SEN0232**](https://raw.githubusercontent.com/ronmariya/ronmar/main/res/0232.webp)
+- [**DPLM20GP**](https://raw.githubusercontent.com/ronmariya/ronmar/main/res/mic.jpg)
+- [**SEN0290**](https://raw.githubusercontent.com/ronmariya/ronmar/main/res/0290.jpg)
 
 
 
