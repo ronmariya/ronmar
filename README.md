@@ -35,8 +35,16 @@ The Sound and Lightning Module includes sensors that are usually smile in size a
 - [**SEN0232**](https://raw.githubusercontent.com/ronmariya/ronmar/main/res/0232.webp)
 - [**DPLM20GP**](https://raw.githubusercontent.com/ronmariya/ronmar/main/res/mic.jpg)
 - [**SEN0290**](https://raw.githubusercontent.com/ronmariya/ronmar/main/res/0290.jpg)
+---
+### LoRa Module
+The LoRa Module consists of the Solar, Main, Battery and Air Modules.
+1. **Jetson Nano** The Jetson Nano measures temperature, humidity, and air pressure. The Jetson Nano can also be used to build a robot that'll detect motion and orientation (position or direction.)
+2. **Raspberry Pi** The Raspberry Pi sensor measures relative humididty and teemperatures between -55 and 125 degress celsius. This sensor is used for transmitting signals from external reactions. 
+3. **LoRa Gateway** The LoRa Gateway is the primary link/chain for communication and data transmission. The creator of the LoRa Gateway sensor is the Cycleo company.
+4. **
+4.
 
 
 
 
-
+T\
