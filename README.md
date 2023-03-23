@@ -35,10 +35,10 @@ The Sound and Lightning Module includes sensors that are usually smile in size a
 ---
 ### LoRa Module
 The LoRa Module consists of the Solar, Main, Battery and Air Modules.
-1. **Jetson Nano** The Jetson Nano measures temperature, humidity, and air pressure. The Jetson Nano can also be used to build a robot that'll detect motion and orientation (position or direction.)[Jetson Nano](https://www.waveshare.com/wiki/Environment_Sensor_for_Jetson_Nano)
-2. **Raspberry Pi** The Raspberry Pi sensor measures relative humididty and temperatures between -55 and 125 degress celsius. This sensor is used for transmitting signals from external reactions. 
-3. **LoRa Gateway** The LoRa Gateway is the primary link/chain for communication and data transmission. The creator of the LoRa Gateway sensor is the Cycleo company.
-4. **Storage Drive** The Storage Drive is responsible for discovering the storage attached to a computer system. The drive extracts, stores and transfers important files and data.
+1. **Jetson Nano** The Jetson Nano measures temperature, humidity, and air pressure. The Jetson Nano can also be used to build a robot that'll detect motion and orientation (position or direction.)[Jetson Nano](https://www.waveshare.com/wiki/Environment_Sensor_for_Jetson_Nano) <img src="https://raw.githubusercontent.com/ronmariya/ronmar/main/res/Jetson.jpg"  width="600" height="300">
+2. **Raspberry Pi** The Raspberry Pi sensor measures relative humididty and temperatures between -55 and 125 degress celsius. This sensor is used for transmitting signals from external reactions. [Raspberry Pi] <img src="https://raw.githubusercontent.com/ronmariya/ronmar/main/res/raspb.jpg"  width="600" height="300">
+3. **LoRa Gateway** The LoRa Gateway is the primary link/chain for communication and data transmission. The creator of the LoRa Gateway sensor is the Cycleo company. [LoRa Gateway] <img src="https://raw.githubusercontent.com/ronmariya/ronmar/main/res/lora.jpg"  width="600" height="300">
+4. **Storage Drive** The Storage Drive is responsible for discovering the storage attached to a computer system. The drive extracts, stores and transfers important files and data. [Storage Drive] <img src="https://raw.githubusercontent.com/ronmariya/ronmar/main/res/storage%20drive.jpg"  width="600" height="300">
 5. **Ethernet Switch** The Ethernet Switch is meant to connect several devices and servers to the local nerwork. Ethernet works by breaking information into fragments called "frames" which makes the data flow through the route easier. Robert Metcalfe and David Boggs co-founded Ethernet together. [Ethernet Switch](https://www.networkworld.com/article/3657734/what-is-ethernet.html#:~:text=Ethernet%20works%20by%20breaking%20up,its%20way%20through%20a%20network.)<img src="https://raw.githubusercontent.com/ronmariya/ronmar/main/res/ethernet.jpg"  width="600" height="300">
 
 
