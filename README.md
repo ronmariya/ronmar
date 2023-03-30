@@ -40,7 +40,9 @@ The LoRa Module consists of the Solar, Main, Battery and Air Modules.
 3. **LoRa Gateway** The LoRa Gateway is the primary link/chain for communication and data transmission. The creator of the LoRa Gateway sensor is the Cycleo company. [LoRa Gateway](https://wyldnetworks.com/blog/what-is-a-lorawan-gateway) <img src="https://raw.githubusercontent.com/ronmariya/ronmar/main/res/lora.jpg"  width="600" height="300">
 4. **Storage Drive** The Storage Drive is responsible for discovering the storage attached to a computer system. The drive extracts, stores and transfers important files and data. [Storage Drive](https://www.techopedia.com/definition/1119/storage-device#:~:text=A%20storage%20device%20is%20any,computer%2C%20server%20or%20computing%20device.) <img src="https://raw.githubusercontent.com/ronmariya/ronmar/main/res/storage%20drive.jpg"  width="600" height="300">
 5. **Ethernet Switch** The Ethernet Switch is meant to connect several devices and servers to the local nerwork. Ethernet works by breaking information into fragments called "frames" which makes the data flow through the route easier. Robert Metcalfe and David Boggs co-founded Ethernet together. [Ethernet Switch](https://www.networkworld.com/article/3657734/what-is-ethernet.html#:~:text=Ethernet%20works%20by%20breaking%20up,its%20way%20through%20a%20network.)<img src="https://raw.githubusercontent.com/ronmariya/ronmar/main/res/ethernet.jpg"  width="600" height="300">
-
-
+---
+### Power Module
+When it comes to the Power Module, it is self explanatory; it is used to control anything that requires power.
+1. **AC/DC Converter** The AC/DC Converter is used for controlling systems and measuring equipment. This sensor measures alternate current (AC) and/or direct current (DC)
 
 
