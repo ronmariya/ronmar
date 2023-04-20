@@ -1,4 +1,4 @@
-# MINTS AI
+      # MINTS AI
 ## Central Node
 ### Main Module  
 1. **Odroid XU4** The Odroid XU4 is a small-scale board that comprises of a Samsung Exynos. An Exynos is designed for power efficiency. The Exynos cpu is targeted for edge computing which is processing information at a quicker rate and volume leading up to quicker re)sults. The manufacturer of the Odroid is Hardkernel Co., Ltd, located in South Korea. 
@@ -19,11 +19,11 @@ The Air Module consists of climate and and solar radiation sensors that protect 
 2. **HM3301** HM3301 is a laser sensor that catches a real-time detection of dust particles in the air. [HM3301](https://wiki.seeedstudio.com/Grove-Laser_PM2.5_Sensor-HM3301/)
 <img src="https://raw.githubusercontent.com/ronmariya/ronmar/main/res/HM3301.jpg"  width="600" height="300">
 
-4. **SCD30** The SCD30 sensor is an inexpensive gas sensor that produces an estimate of Carbon dioxide. [SCD-30](https://mintswiki.trecis.cloud/mediawiki/index.php/Central_Node) <img src="https://raw.githubusercontent.com/ronmariya/ronmar/main/res/scd30.jpg"  width="600" height="300">
+3. **SCD30** The SCD30 sensor is an inexpensive gas sensor that produces an estimate of Carbon dioxide. [SCD-30](https://mintswiki.trecis.cloud/mediawiki/index.php/Central_Node) <img src="https://raw.githubusercontent.com/ronmariya/ronmar/main/res/scd30.jpg"  width="600" height="300">
 
-5. **MiCS-6814** The MiCS-6814 produces an estimate of gaseous chemicals such as Carbon monoxide, Nitrogen dioxide, Ethanol, Hydrogen, Azane, Methane, Propane, and Butane. [MiCS-6814](https://mintswiki.trecis.cloud/mediawiki/index.php/Central_Node) <img src="https://raw.githubusercontent.com/ronmariya/ronmar/main/res/MiCS.jpg"  width="600" height="300">
+4. **MiCS-6814** The MiCS-6814 produces an estimate of gaseous chemicals such as Carbon monoxide, Nitrogen dioxide, Ethanol, Hydrogen, Azane, Methane, Propane, and Butane. [MiCS-6814](https://mintswiki.trecis.cloud/mediawiki/index.php/Central_Node) <img src="https://raw.githubusercontent.com/ronmariya/ronmar/main/res/MiCS.jpg"  width="600" height="300">
 
-7. **BME280** The BME280 sensor measures temperature, pressure, and humidity. BME280 is also used to help with PM measurements. <img src="https://raw.githubusercontent.com/ronmariya/ronmar/main/res/BME280_I2CS.png"  width="600" height="300">
+5. **BME280** The BME280 sensor measures temperature, pressure, and humidity. BME280 is also used to help with PM measurements. <img src="https://raw.githubusercontent.com/ronmariya/ronmar/main/res/BME280_I2CS.png"  width="600" height="300">
 ---
 ### Sound and Lightning Module
 The Sound and Lightning Module includes sensors that are usually smile in size and tend to not be affected tp rain or fog/condensation.
