@@ -44,5 +44,6 @@ The LoRa Module consists of the Solar, Main, Battery and Air Modules.
 ### Power Module
 When it comes to the Power Module, it is self explanatory; it is used to control anything that requires power.
 1. **AC/DC Converter** The AC/DC Converter is used for controlling systems and measuring equipment. This sensor measures alternate current (AC) and/or direct current (DC)
+2. <img src= 
 
 
